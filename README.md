@@ -9,7 +9,7 @@ Working at the intersection of computational biomechanics, medical imaging, and 
 
 ### What I'm building
 
-**[Ocora](https://github.com)** — a personalised brain digital twin platform for neurological diagnosis in low-resource settings. Bridging the gap between clinical-grade brain modelling and accessibility.
+**Ocora** — a personalised brain digital twin platform for neurological diagnosis in low-resource settings. Bridging the gap between clinical-grade brain modelling and accessibility.
 
 **NPH Diagnostics research** — recovering patient-specific pre-disease ventricular geometry in normal pressure hydrocephalus using morphoelastic decomposition, finite element simulation (LS-DYNA), and a physics-supervised graph convolutional network. Working with the MINDER study dataset.
 
